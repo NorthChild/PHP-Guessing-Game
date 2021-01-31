@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>week 8 - Guessing Game in PHP</title>
+    <title>Guessing Game in PHP</title>
   </head>
   <body>
 
